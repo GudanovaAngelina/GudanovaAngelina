@@ -11,7 +11,7 @@ My experience includes:
 - **Security and Scalability**: Ensuring node security, implementing methods to enhance network scalability, and optimizing performance.
 - **Community Participation**: Actively engaging in blockchain project communities, sharing knowledge, and assisting other participants.
 
-## My Guides:
+## My Guides
 - **0g Node and Validator Installation Guide**: https://medium.com/@robin_bobin/0g-node-and-validator-installation-guide-26fc18257900
 - **0G Storage Node Installation Guide**: https://medium.com/@robin_bobin/0g-storage-node-installation-guide-a47906abe5f60
 - **Massa Labs Node Installation Guide**: https://medium.com/@robin_bobin/massa-labs-node-installation-guide-32f29f90c46f
