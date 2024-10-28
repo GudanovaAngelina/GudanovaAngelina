@@ -12,6 +12,9 @@ My experience includes:
 - **Community Participation**: Actively engaging in blockchain project communities, sharing knowledge, and assisting other participants.
 
 ## My Guides
+
+- **Supernova node Install Guide**:  https://medium.com/@robin_bobin/supernova-node-guide-2e66b80f528f
+- **Waku node Install Guide**:  https://medium.com/@robin_bobin/waku-node-install-guide-4115eb32b496
 - **Symbiotic node Install Guide**: https://medium.com/@robin_bobin/symbiotic-node-install-guide-d4f420e787ba
 - **Massa Labs Node Installation Guide**: https://medium.com/@robin_bobin/massa-labs-node-installation-guide-32f29f90c46f
 
