@@ -17,6 +17,7 @@ My experience includes:
 - **Waku node Install Guide**:  https://medium.com/@robin_bobin/waku-node-install-guide-4115eb32b496
 - **Symbiotic node Install Guide**: https://medium.com/@robin_bobin/symbiotic-node-install-guide-d4f420e787ba
 - **Massa Labs Node Installation Guide**: https://medium.com/@robin_bobin/massa-labs-node-installation-guide-32f29f90c46f
+- **Guide to Deploying an NFT on Bahamut**: https://medium.com/@robin_bobin/guide-to-deploying-an-nft-on-bahamut-4f3d95346c64
 
 You can reed other guides on my [Medium page](https://medium.com/@robin_bobin).
 
